@@ -10,3 +10,10 @@ https://github.com/Alejogb1/job-board/blob/92dc18d9cd729132ec5a27f58bb46a21acfcd
 ###  Explain Spacy
 
 https://github.com/datkt1998/notebooks/blob/401d11fcc5693bd5233e3bd7303208433898a9da/Learning/Coding/contents/2_tools/dev_frameworks/spacy/spacy.ipynb
+
+
+### NER regex  by spacy lib
+
+https://github.com/anilkunwar/thermoelectrics/blob/4d9586da129f7b5d06be590df20f884ba1f49b03/machine_learning/thermoelectrictype_graphclassification/materialtype_gnnformula_advanced.py#L61
+
+
